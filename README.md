@@ -2,6 +2,8 @@
 
 Created by [Won Joon Yun](https://sites.google.com/view/wonjoonyun) ([AIMLab](https://aimlab-kuee.github.io/), KoreaUniv)
 
+**THIS** code supports researchers who study federated learning with non-iid datasets.
+
 ![Sample](./Sample_Fig.png)
 
 
