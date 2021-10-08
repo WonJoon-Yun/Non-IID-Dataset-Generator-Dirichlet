@@ -1,4 +1,9 @@
 # Non-IID-Dataset-Generator-Direc-Delta
+
+
+![Sample](./Sample_Fig.png)
+
+
 --
 
 **_Reference_**
